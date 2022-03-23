@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
+ <path d='M25,75 L25,25 C37.5,10 75,40 75,25 L75,55 C62.5,70 37.5,40 25,55' style='stroke:#ffffff; fill:#00ffb2'>
+  <animate dur="2s" attributeName="d" fill="freeze" repeatCount="indefinite" values=
+   "M25,75 L25,25 C37.5,10 75,40 75,25 L75,55 C62.5,70 37.5,40 25,55;
+   M25,75 L25,25 C37.5,40 75,10 75,25 L75,55 C62.5,40 37.5,70 25,55;
+   M25,75 L25,25 C37.5,10 75,40 75,25 L75,55 C62.5,70 37.5,40 25,55"
+  />
+ </path>
+</svg>
